@@ -1,7 +1,11 @@
 Hello, Welcome to Inked. A Tattoo discovery paltform currently under development. 
 
+
 This repo is the backend for our MERN stack app. 
 The front end -> https://github.com/thekingiscold/inked-ui
+
+(In case you are interested in the react native version of this app 
+https://github.com/thekingiscold/react-native-inked)
 
 You need Docker to run the app
 
