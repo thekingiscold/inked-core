@@ -6,7 +6,9 @@ The front end -> https://github.com/thekingiscold/inked-ui
 You need Docker to run the app
 
 We have a dockerfile in each repository. 
+
 In this repo we have the folllwing: 
+
 docker-compose.yaml -> will help us start and orchestrate the 3 containers (services). 
 init-mongo-sh -> will inialize the mongodb with dummy data so our APIs work
 
