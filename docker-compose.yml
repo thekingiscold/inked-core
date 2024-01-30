@@ -1,13 +1,13 @@
 version: '3'
 services:
   backend:
-    build: /Users/I526724/Personal_Projects/InkedBackend
+    build: .
     ports:
       - "3001:3001"
     depends_on:
       - mongodb
   frontend:
-    build: /Users/I526724/Personal_Projects/Inked/inked
+    build: ../Inked/inked
     ports:
       - "8080:80"
     depends_on:
