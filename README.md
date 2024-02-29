@@ -1,5 +1,6 @@
 Hello, Welcome to Inked. A Tattoo discovery paltform currently under development. 
 
+Notice: If you are stuck with loading screen after logging in, please try reloading the page. It's a bug, will fix it soon :)
 
 This repo is the backend for our MERN stack app. 
 The front end -> https://github.com/thekingiscold/inked-ui
